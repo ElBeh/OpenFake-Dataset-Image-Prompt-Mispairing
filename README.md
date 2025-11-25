@@ -18,9 +18,10 @@ See [`notebooks/01_specific_samples_verification.ipynb`](notebooks/OpenFake_Imag
 - Shows complete mismatch between images and prompts
 
 ### Systematic Check
-See [`notebooks/02_systematic_model_check.ipynb`](notebooks/02_systematic_model_check.ipynb)
+See [`notebooks/02_systematic_model_check.ipynb`](notebooks/checking_affected_models.ipynb)
 - Verifies first 10 samples per affected model
-- Confirms 100% error rate for these models
+- Images are saved in ['results/Screenshots'](results/screenshots)
+- Confirms 97,5% error rate for these models
 
 ## Related Discussion
 [Link zur HuggingFace Discussion - wird ergänzt]
