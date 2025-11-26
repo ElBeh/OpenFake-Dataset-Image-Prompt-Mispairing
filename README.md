@@ -13,14 +13,14 @@ Systematic image-prompt mispairing affecting multiple models in the [OpenFake da
 ## Verification
 
 ### Specific Samples
-See [`notebooks/01_specific_samples_verification.ipynb`](notebooks/OpenFake_Image_Prompt_Mispairing.ipynb)
+See [`notebooks/OpenFake_Image_Prompt_Mispairing.ipynb`](notebooks/OpenFake_Image_Prompt_Mispairing.ipynb)
 - Documents 12 specific examples with screenshots
 - Shows complete mismatch between images and prompts
 
 ### Systematic Check
-See [`notebooks/02_systematic_model_check.ipynb`](notebooks/checking_affected_models.ipynb)
-- Verifies first 10 samples per affected model
-- Images are saved in [results/Screenshots](results/screenshots), see [affected samples](/results/affected_samples.md) for further information
+See [affected samples](/results/affected_samples.md) for further information (Code: [`notebooks/checking_affected_models.ipynb`](notebooks/checking_affected_models.ipynb))
+- Verifies first 10 samples per affected model (human verification)
+- Images are saved in [results/Screenshots](results/screenshots)
 - Confirms 97,5% mispairing rate for these models
 
 ## Related Discussion
