@@ -1,5 +1,5 @@
 # OpenFake Dataset - Image-Prompt Mispairing Report
-Two Notebooks to demonstrate the mispairing of some models in the dataset.
+Two Notebooks to demonstrate the mispairing of four models in the dataset.
 
 ## Critical Issue
 Systematic image-prompt mispairing affecting multiple models in the [OpenFake dataset](https://huggingface.co/datasets/ComplexDataLab/OpenFake).
