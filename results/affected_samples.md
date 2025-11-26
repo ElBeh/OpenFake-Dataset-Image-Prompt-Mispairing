@@ -2,6 +2,8 @@
 
 This document lists all [samples](screenshots) from the systematic model check showing incorrect image-prompt pairings in the OpenFake dataset (human verification).
 
+Code: [`notebooks/checking_affected_models.ipynb`](notebooks/checking_affected_models.ipynb)
+
 **Note:** Sample numbers refer to the sequence within each model's filtered subset (not dataset-wide indices).
 
 ---
