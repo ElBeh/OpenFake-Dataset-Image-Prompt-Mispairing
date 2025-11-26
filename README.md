@@ -23,7 +23,7 @@ See [detailed results](/results/affected_samples.md) for further information (Co
 - Images are saved in [results/Screenshots](results/screenshots)
 - Confirms 97,5% mispairing rate for these models
 
-## Example of Mispairing
+## Examples of Mispairing
 
 **Prompt:** A photograph captures a tense scene where barricades set ablaze by protesters are shown in front of a building, with no visible individuals in the frame.
 
