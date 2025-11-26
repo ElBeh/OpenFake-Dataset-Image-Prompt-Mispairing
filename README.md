@@ -18,10 +18,20 @@ See [`notebooks/OpenFake_Image_Prompt_Mispairing.ipynb`](notebooks/OpenFake_Imag
 - Shows complete mismatch between images and prompts
 
 ### Systematic Check
-See [affected models](/results/affected_samples.md) for further information (Code: [`notebooks/checking_affected_models.ipynb`](notebooks/checking_affected_models.ipynb))
+See [detailed results](/results/affected_samples.md) for further information (Code: [`notebooks/checking_affected_models.ipynb`](notebooks/checking_affected_models.ipynb))
 - Verifies first 10 samples per affected model (human verification)
 - Images are saved in [results/Screenshots](results/screenshots)
 - Confirms 97,5% mispairing rate for these models
+
+## Example of Mispairing
+
+**Prompt:** A photograph captures a tense scene where barricades set ablaze by protesters are shown in front of a building, with no visible individuals in the frame.
+
+<img src="./results/screenshots/flux_1-dev/sample1.png" alt="sample" width="500">
+
+**Prompt:** A collectible Star Trek Captain Kirk quote fridge magnet featuring a photograph of William Shatner as Captain Kirk with the iconic phrase "Beam me up Scotty!" displayed prominently.
+
+<img src="./results/screenshots/sd3_5/sample3.png" alt="sample" width="500">
 
 ## Related Discussion
 [Link zur HuggingFace Discussion - wird ergänzt]
