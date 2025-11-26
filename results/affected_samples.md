@@ -10,34 +10,34 @@ This document lists all [samples](screenshots) from the systematic model check s
 
 ### Sample 1
 **Prompt:** A photograph captures a tense scene where barricades set ablaze by protesters are shown in front of a building, with no visible individuals in the frame.
-![Beschreibung](./screenshots/flux_1-dev/sample1.png)
+![sample](./screenshots/flux_1-dev/sample1.png)
 ### Sample 2
 **Prompt:** A professional photograph of an older man wearing glasses, a suit, and a red tie, set against a dark background with text overlay promoting financial advice from Retire29.com.
-
+![sample](./screenshots/flux_1-dev/sample2.png)
 ### Sample 3
 **Prompt:** A photograph captures an outdoor wedding ceremony at Tenuta di Canonica in Umbria, featuring guests seated on wooden chairs under a pergola with a scenic backdrop of rolling hills and olive trees.
-
+![sample](./screenshots/flux_1-dev/sample3.png)
 ### Sample 4
 **Prompt:** A colorful movie poster for "The Royal Tenenbaums," featuring a group of characters dressed in vibrant outfits against a bright background.
-
+![sample](./screenshots/flux_1-dev/sample4.png)
 ### Sample 5
 **Prompt:** A poster featuring a photograph of a woman feeding a child, with text at the top discussing improving nutrition for vulnerable populations as part of France's international action plan from 2016 to 2020.
-
+![sample](./screenshots/flux_1-dev/sample5.png)
 ### Sample 6
 **Prompt:** A dynamic basketball game moment captures Olympic's Greg Brehmer (24) attempting a shot while North Kitsap's Shaa Humphrey (23) defends, with other players and spectators in the background, all captured in a photograph.
-
+![sample](./screenshots/flux_1-dev/sample6.png)
 ### Sample 7
 **Prompt:** A silhouette of a person wearing a red beanie and a black jacket with the text "IT'S YOUR WORLD" in yellow, set against a sunset sky, formatted as a poster.
-
+![sample](./screenshots/flux_1-dev/sample7.png)
 ### Sample 8
 **Prompt:** A family of three enjoys a sunny day flying a kite on a beach, captured as a high-quality royalty-free stock photo.
-
+![sample](./screenshots/flux_1-dev/sample8.png)
 ### Sample 9
 **Prompt:** In a vibrant dining area, a Kent State employee smiles as a staff member prepares food at the newly branded Golden Flash Bistro, featuring Olilo by Cat Cora, with bright yellow lemons displayed prominently in the foreground.
-
+![sample](./screenshots/flux_1-dev/sample9.png)
 ### Sample 10
 **Prompt:** A poster for an episode of Charlie Rose featuring David McCullough, dated June 9, 2011, with a photograph of a man in formal attire against a light green background.
-
+![sample](./screenshots/flux_1-dev/sample10.png)
 ---
 
 ## sd-1.5-dreamshaper (10/10 samples mismatched)
