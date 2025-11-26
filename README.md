@@ -34,7 +34,7 @@ See [detailed results](/results/affected_samples.md) for further information (Co
 <img src="./results/screenshots/sd3_5/sample3.png" alt="sample" width="500">
 
 ## Related Discussion
-[Link zur HuggingFace Discussion - wird ergänzt]
+[HuggingFace Discussion](https://huggingface.co/datasets/ComplexDataLab/OpenFake/discussions/2)
 
 ## Dataset Indexing Note
 HuggingFace viewer uses 1-based indexing, programmatic access is 0-based.
