@@ -21,7 +21,7 @@ See [`notebooks/01_specific_samples_verification.ipynb`](notebooks/OpenFake_Imag
 See [`notebooks/02_systematic_model_check.ipynb`](notebooks/checking_affected_models.ipynb)
 - Verifies first 10 samples per affected model
 - Images are saved in [results/Screenshots](results/screenshots), see [affected samples](/results/affected_samples.md) for further information
-- Confirms 97,5% error rate for these models
+- Confirms 97,5% mispairing rate for these models
 
 ## Related Discussion
 [Link zur HuggingFace Discussion - wird ergänzt]
